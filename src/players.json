@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Kylian Mbappé",
+    "club": "Real Madrid",
+    "position": "Forward",
+    "nationality": "France"
+  },
+  {
+    "id": 2,
+    "name": "Erling Haaland",
+    "club": "Manchester City",
+    "position": "Forward",
+    "nationality": "Norway"
+  },
+  {
+    "id": 3,
+    "name": "Vini Jr.",
+    "club": "Real Madrid",
+    "position": "Forward",
+    "nationality": "Brazil"
+  },
+  {
+    "id": 4,
+    "name": "Kevin De Bruyne",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "nationality": "Belgium"
+  },
+  {
+    "id": 5,
+    "name": "Jude Bellingham",
+    "club": "Real Madrid",
+    "position": "Midfielder",
+    "nationality": "England"
+  }
+]
