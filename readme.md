@@ -7,8 +7,6 @@
 
 
 
-<h1>Desafio final de projeto: NODE SEM API</h1>
-
 # MARCELO BARUDI
  
 <div align="center">
